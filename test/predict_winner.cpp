@@ -11,7 +11,7 @@ int main()
     cin >> t;
     while (t--)
     {
-        
+        cout << "meet" << "\n";
     }
     return 0;
 }
